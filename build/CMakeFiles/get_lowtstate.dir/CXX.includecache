@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/koji/Unitree_ws/unitree_sdk2/example/devel/get_lowtstate.cpp
+iostream
+-
+chrono
+-
+unitree/robot/channel/channel_subscriber.hpp
+-
+unitree/idl/go2/LowState_.hpp
+-
+unitree/common/time/time_tool.hpp
+-
+unitree/common/thread/thread.hpp
+-
+unitree/robot/channel/channel_factory.hpp
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/obstcle_avoider.dir/example/devel/obstcle_avoider.cpp.o  -o obstcle_avoider  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

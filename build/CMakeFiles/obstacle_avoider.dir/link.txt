@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/obstacle_avoider.dir/example/devel/obstacle_avoider.cpp.o  -o obstacle_avoider  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

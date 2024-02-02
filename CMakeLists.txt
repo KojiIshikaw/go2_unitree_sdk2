@@ -19,3 +19,8 @@ add_executable(robot_state_client_example example/client/robot_state_client_exam
 add_executable(sport_client_example example/client/sport_client_example.cpp)
 add_executable(video_client_example example/client/video_client_example.cpp)
 add_executable(vui_client_example example/client/vui_client_example.cpp)
+
+add_executable(get_lowtstate example/devel/get_lowtstate.cpp)
+add_executable(pub_sportmodecmd example/devel/pub_sportmodecmd.cpp)
+add_executable(pub_lowcmd example/devel/pub_lowcmd.cpp)
+add_executable(obstacle_avoider example/devel/obstacle_avoider.cpp)

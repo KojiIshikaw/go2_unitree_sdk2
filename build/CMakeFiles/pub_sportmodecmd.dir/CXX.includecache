@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/koji/Unitree_ws/unitree_sdk2/example/devel/pub_sportmodecmd.cpp
+unitree/robot/channel/channel_publisher.hpp
+-
+unitree/common/time/time_tool.hpp
+-
+unitree/idl/go2/SportModeCmd_.hpp
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/get_lowtstate.dir/example/devel/get_lowtstate.cpp.o  -o get_lowtstate  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

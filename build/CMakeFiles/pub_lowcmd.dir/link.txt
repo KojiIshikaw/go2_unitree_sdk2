@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pub_lowcmd.dir/example/devel/pub_lowcmd.cpp.o  -o pub_lowcmd  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

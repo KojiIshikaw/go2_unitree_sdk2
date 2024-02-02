@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pub_sportmodecmd.dir/example/devel/pub_sportmodecmd.cpp.o  -o pub_sportmodecmd  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 
