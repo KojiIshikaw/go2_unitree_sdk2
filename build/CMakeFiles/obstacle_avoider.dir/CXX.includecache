@@ -9,4 +9,8 @@
 /home/koji/Unitree_ws/unitree_sdk2/example/devel/obstacle_avoider.cpp
 unitree/robot/go2/obstacles_avoid/obstacles_avoid_client.hpp
 -
+iostream
+-
+cstdlib
+-
 

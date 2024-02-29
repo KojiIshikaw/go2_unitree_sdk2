@@ -73,7 +73,7 @@ void Custom::InitLowCmd()
 
 void Custom::LowCmdWrite()
 {
-    std::cout << "pub lowcmd! : " <<  << std::endl;
+    // std::cout << "pub lowcmd! : " <<  << std::endl;
     lowcmd_publisher->Write(low_cmd);
 }
 
